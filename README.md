@@ -19,7 +19,7 @@ PkgRepoSelector is a simple graphical and command-line application to manage and
 
 1. Clone the repository:
    ```
-   git clone https://github.com/yourusername/PkgRepoSelector.git
+   git clone https://github.com/repent-or-perish/PkgRepoSelector.git
    cd PkgRepoSelector
    ```
 
